@@ -24,6 +24,5 @@ int main(){
 	toplam=0;
 	devam = getch();
 	} 
-		printf("\n\nHesaplama islemi bitmistir");
-		 
+		printf("\n\nHesaplama islemi bitmistir");	 
 }
